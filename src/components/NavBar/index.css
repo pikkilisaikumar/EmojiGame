@@ -1,0 +1,28 @@
+.navbarcontainer {
+  background-color: #9796f0;
+  padding: 20px;
+}
+.firstnavbarcontainer {
+  display: flex;
+  align-items: center;
+}
+.emojigameheading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.counttotalcountcontainer {
+  display: flex;
+  align-items: center;
+}
+.countparagraph {
+  padding-right: 15px;
+}
+.navbarcontainer {
+  display: flex;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+  justify-content: space-between;
+  align-items: center;
+}

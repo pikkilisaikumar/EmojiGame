@@ -1,0 +1,17 @@
+.background-details {
+  background-image: linear-gradient(#6a59ff, #ffffff);
+  min-height: 100vh;
+  /* padding: 20px; */
+}
+.unorderlistone {
+  display: flex;
+
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.card-itemscontainer {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
